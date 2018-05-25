@@ -110,9 +110,9 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\profile_generic.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ProjectCollector\ProjectCollector.csproj">
-      <Project>{8c5458ca-04bc-4b39-b348-88b742eb441c}</Project>
-      <Name>ProjectCollector</Name>
+    <ProjectReference Include="..\ProjectCollector\ProjectCollector.Core.csproj">
+      <Project>{7B16D1E7-E8E5-43F7-B9BC-2637EC8C641F}</Project>
+      <Name>ProjectCollector.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

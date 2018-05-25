@@ -113,9 +113,9 @@
     <Reference Include="System.Net.Http" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ProjectCollector\ProjectCollector.csproj">
-      <Project>{36a4a3ef-7ec8-4665-935e-0b0f00b02742}</Project>
-      <Name>ProjectCollector</Name>
+    <ProjectReference Include="..\ProjectCollector\ProjectCollector.Core.csproj">
+      <Project>{7B16D1E7-E8E5-43F7-B9BC-2637EC8C641F}</Project>
+      <Name>ProjectCollector.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
